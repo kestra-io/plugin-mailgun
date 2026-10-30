@@ -1,10 +1,10 @@
 {
-  "name": "plugin-template",
+  "name": "plugin-mailgun",
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
   },
-  "workspaceFolder": "/workspaces/plugin-template",
+  "workspaceFolder": "/workspaces/plugin-mailgun",
   "forwardPorts": [8080],
   "customizations": {
     "vscode": {
